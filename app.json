@@ -19,5 +19,6 @@
     "navigationBarTitleText": "腾讯视频云",
     "navigationBarTextStyle": "white",
     "navigationStyle": "custom"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
